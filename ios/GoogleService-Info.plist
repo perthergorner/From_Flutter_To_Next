@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>363672539637-15f0q3vbtprssfu2e8prvm1our7uv442.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.363672539637-15f0q3vbtprssfu2e8prvm1our7uv442</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>363672539637-5f0vp9it6e4laiiegmd2bsh8s4rg26bo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAPS7bR94iWiCpjFbEE9qMEbdNytLcb5VI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>363672539637</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jp.kirihare.wellbeing</string>
+	<key>PROJECT_ID</key>
+	<string>kirihare-web</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kirihare-web.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:363672539637:ios:ca7a396943e17a87db90bc</string>
+</dict>
+</plist>

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "363672539637",
+    "project_id": "kirihare-web",
+    "storage_bucket": "kirihare-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363672539637:android:bb7dffc5494644c7db90bc",
+        "android_client_info": {
+          "package_name": "jp.kiriharee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363672539637-5f0vp9it6e4laiiegmd2bsh8s4rg26bo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.kiriharee",
+            "certificate_hash": "d5ba17c3de834af501423c38d34ce4fbd0bdd925"
+          }
+        },
+        {
+          "client_id": "363672539637-p2t178th8msn4lbnf7tpo8f54fnnlogb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.kiriharee",
+            "certificate_hash": "b4dc63750f2121c42815e70a7167ff37a5dcd086"
+          }
+        },
+        {
+          "client_id": "363672539637-am38id9537t5dp3at5j41i3p51h7s3e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIRO50KmNRLxF_nV9Uoro3ovXG7vzZFKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363672539637-am38id9537t5dp3at5j41i3p51h7s3e6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "363672539637-j0q64irsi7seh5qrr2qtce8femn3mu7l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.kiriharee"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363672539637:android:54898748771ad48bdb90bc",
+        "android_client_info": {
+          "package_name": "jp.kiriharee.wellbeing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363672539637-am38id9537t5dp3at5j41i3p51h7s3e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIRO50KmNRLxF_nV9Uoro3ovXG7vzZFKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363672539637-am38id9537t5dp3at5j41i3p51h7s3e6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "363672539637-j0q64irsi7seh5qrr2qtce8femn3mu7l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.kiriharee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
